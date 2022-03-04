@@ -1,0 +1,1 @@
+console.log('A skeleton placeholder components of vue, please wait for the subsequent development version');

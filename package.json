@@ -1,0 +1,26 @@
+{
+  "name": "vue-skeleton-placeholder",
+  "version": "0.0.1",
+  "description": "A skeleton placeholder components of vue",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:staticdeng/vue-skeleton-placeholder.git"
+  },
+  "keywords": [
+    "vue-skeleton",
+    "vue-placeholder",
+    "vue-skeleton-placeholder",
+    "skeleton",
+    "placeholder"
+  ],
+  "author": "staticdeng",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "bugs": {
+    "url": "https://github.com/staticdeng/vue-skeleton-placeholder/issues"
+  },
+  "homepage": "https://github.com/staticdeng/vue-skeleton-placeholder#readme"
+}
